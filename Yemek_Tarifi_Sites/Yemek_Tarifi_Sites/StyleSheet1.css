@@ -1,0 +1,143 @@
+﻿body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.a1 {
+    background-color: #4b4a4a;
+    color: white;
+    display: flex;
+    padding: 5px;
+    width: 450px;
+    box-sizing: border-box;
+    text-align: center;
+    justify-content: center;
+}
+
+.a2 {
+    border: thin solid #fff;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    background-color: #074799;
+    color: white;
+    cursor: pointer;
+}
+
+.menu-text {
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+}
+
+.yorumlar-cont {
+    color: white;
+}
+
+.kullanici-body {
+    background-image: url(Resimler/Arkaplan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.admin-body {
+    background-color: #4b4a4a;
+}
+
+.menu-yazi {
+    height: 50px;
+    font-size: 23px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border: 2px solid white;
+    color: white;
+    font-weight: bold;
+}
+
+.menu-text:hover {
+    color: black;
+    transition: all 0.5s;
+}
+
+.baslik {
+    background-color: #1f1f1f;
+    color: white;
+    display: flex;
+    padding: 5px;
+    width: 450px;
+    box-sizing: border-box;
+    text-align: center;
+    justify-content: center;
+}
+
+.a3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 445px;
+    text-align: center;
+    border: 1px solid #1f1f1f;
+    color: white;
+}
+
+.ekle {
+    display: flex;
+    justify-content: center;
+    height: 30px;
+    align-items: center;
+    font-weight: bold;
+    color: white;
+}
+
+.button-ekle {
+    height: 30px;
+    width: 450px;
+    font-weight: bold;
+    cursor: pointer
+}
+
+.ekle-a {
+    display: flex;
+    justify-content: center;
+    height: 30px;
+    align-items: center;
+    font-weight: bold;
+    color: white;
+    width: 455px;
+}
+
+.mesaj {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px 0;
+    color: white;
+    border: 2px solid #fff;
+
+    
+}
+
+.gununYemegi {
+    color: black;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    background-color: #cccccc;
+    font-weight: bold;
+    font-size: larger;
+}
+.header1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 30px;
+
+}

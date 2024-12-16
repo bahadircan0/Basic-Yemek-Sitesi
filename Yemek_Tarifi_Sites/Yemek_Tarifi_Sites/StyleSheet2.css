@@ -1,0 +1,240 @@
+﻿body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.a1 {
+    background-color: #4b4a4a;
+    color: white;
+    display: flex;
+    padding: 5px;
+    width: 450px;
+    box-sizing: border-box;
+    text-align: center;
+    justify-content: center;
+}
+
+.a2 {
+    border: thin solid #fff;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    background-color: #074799;
+    color: white;
+    cursor: pointer;
+}
+
+.menu-text {
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+}
+
+.yorumlar-cont {
+    color: white;
+}
+
+.kullanici-body {
+    background-image: url(Resimler/Arkaplan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: auto;
+
+}
+
+.admin-body {
+    background-color: #4b4a4a;
+}
+
+.menu-yazi {
+    height: 50px;
+    font-size: 23px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border: 2px solid white;
+    color: white;
+    font-weight: bold;
+}
+
+.menu-text:hover {
+    color: black;
+    transition: all 0.5s;
+}
+
+.baslik {
+    background-color: #1f1f1f;
+    color: white;
+    display: flex;
+    padding: 5px;
+    width: 450px;
+    box-sizing: border-box;
+    text-align: center;
+    justify-content: center;
+}
+
+.a3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 445px;
+    text-align: center;
+    border: 1px solid #1f1f1f;
+    color: white;
+}
+
+.ekle {
+    display: flex;
+    justify-content: center;
+    height: 30px;
+    align-items: center;
+    font-weight: bold;
+    color: white;
+}
+
+.button-ekle {
+    height: 30px;
+    width: 450px;
+    font-weight: bold;
+    cursor: pointer
+}
+
+.ekle-a {
+    display: flex;
+    justify-content: center;
+    height: 30px;
+    align-items: center;
+    font-weight: bold;
+    color: white;
+    width: 455px;
+}
+
+.mesaj {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px 0;
+    color: white;
+    border: 2px solid #fff;
+}
+
+.gununYemegi {
+    color: black;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    background-color: #cccccc;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.header1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+}
+
+.header2 {
+    padding: 12px;
+    cursor: pointer;
+}
+
+    .header2 a {
+        text-decoration: none;
+        color: #091057;
+        font-size: 17px;
+        font-weight: bold;
+    }
+
+    .header2:hover {
+        background-color: #091057;
+        transition: all 0.5s;
+    }
+
+        .header2:hover a {
+            color: #EC8305;
+            transition: all 0.5s;
+        }
+
+
+.adet {
+    background-color: white;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.kategoriler {
+    border: thin solid #CCCCCC;
+    height: 30px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer
+}
+    .kategoriler:hover {
+        background-color: #4CC9FE;
+    }
+        .kategoriler:hover .kategoriLabel {
+            color: black;
+        }
+.container {
+    display: flex;
+    justify-content: center;
+    background-color: #D9EAFD;
+    padding: 10px
+}
+
+.yemekad {
+    display: flex;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    background-color: #DBD3D3;
+}
+.yemekad a{
+    text-decoration:none;
+    color:black;
+    font-weight:bold;
+    font-size:17px;
+
+}
+.yemekmalzeme {
+    padding-bottom: 20px;
+    background-color: #BCCCDC;
+
+}
+.yemekmalzeme1 {
+    padding-bottom: 20px;
+   
+}
+    .yemekmalzeme1 div {
+        font-size: 19px;
+        display: flex;
+    }
+.yemekmalzeme  div{
+    font-size:19px;
+    display:flex;
+}
+.container2{
+    border:2px solid black;
+}
+.tarifoner {
+    display: flex;
+    height: 50px;
+    align-items: center;
+    background-color: #BCCCDC;
+    border-bottom:2px solid black;
+}
+.a4 {
+    color: #091057;
+    font-weight:bold;
+    font-size:17px;
+}

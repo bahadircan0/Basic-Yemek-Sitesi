@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bahak\\source\\repos\\Yemek_Tarifi_Sites\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bahak\\source\\repos\\Yemek_Tarifi_Sites\\Yemek_Tarifi_Sites\\Admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Yemek_Tarifi_Sites\\Admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bahak\\source\\repos\\Yemek_Tarifi_Sites\\Yemek_Tarifi_Sites\\AnaSayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Yemek_Tarifi_Sites\\AnaSayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bahak\\source\\repos\\Yemek_Tarifi_Sites\\Yemek_Tarifi_Sites\\StyleSheet2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Yemek_Tarifi_Sites\\StyleSheet2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bahak\\source\\repos\\Yemek_Tarifi_Sites\\Yemek_Tarifi_Sites\\Kullanici.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Yemek_Tarifi_Sites\\Kullanici.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "C:\\Users\\bahak\\source\\repos\\Yemek_Tarifi_Sites\\Yemek_Tarifi_Sites\\Admin.aspx",
+              "RelativeDocumentMoniker": "Yemek_Tarifi_Sites\\Admin.aspx",
+              "ToolTip": "C:\\Users\\bahak\\source\\repos\\Yemek_Tarifi_Sites\\Yemek_Tarifi_Sites\\Admin.aspx",
+              "RelativeToolTip": "Yemek_Tarifi_Sites\\Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-16T11:19:53.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnaSayfa.aspx",
+              "DocumentMoniker": "C:\\Users\\bahak\\source\\repos\\Yemek_Tarifi_Sites\\Yemek_Tarifi_Sites\\AnaSayfa.aspx",
+              "RelativeDocumentMoniker": "Yemek_Tarifi_Sites\\AnaSayfa.aspx",
+              "ToolTip": "C:\\Users\\bahak\\source\\repos\\Yemek_Tarifi_Sites\\Yemek_Tarifi_Sites\\AnaSayfa.aspx",
+              "RelativeToolTip": "Yemek_Tarifi_Sites\\AnaSayfa.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-16T05:46:17.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StyleSheet2.css",
+              "DocumentMoniker": "C:\\Users\\bahak\\source\\repos\\Yemek_Tarifi_Sites\\Yemek_Tarifi_Sites\\StyleSheet2.css",
+              "RelativeDocumentMoniker": "Yemek_Tarifi_Sites\\StyleSheet2.css",
+              "ToolTip": "C:\\Users\\bahak\\source\\repos\\Yemek_Tarifi_Sites\\Yemek_Tarifi_Sites\\StyleSheet2.css",
+              "RelativeToolTip": "Yemek_Tarifi_Sites\\StyleSheet2.css",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-16T04:57:05.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kullanici.master",
+              "DocumentMoniker": "C:\\Users\\bahak\\source\\repos\\Yemek_Tarifi_Sites\\Yemek_Tarifi_Sites\\Kullanici.master",
+              "RelativeDocumentMoniker": "Yemek_Tarifi_Sites\\Kullanici.master",
+              "ToolTip": "C:\\Users\\bahak\\source\\repos\\Yemek_Tarifi_Sites\\Yemek_Tarifi_Sites\\Kullanici.master",
+              "RelativeToolTip": "Yemek_Tarifi_Sites\\Kullanici.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-16T04:34:47.689Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
